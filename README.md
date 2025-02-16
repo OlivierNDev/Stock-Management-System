@@ -1,5 +1,1 @@
-# Welcome to GitHub Desktop!
-
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+Developed a stock management system using Python, PostgreSQL, and React to help CardX Ltd streamline inventory tracking and reduce inefficiencies. The system automates stock updates, tracks product movement, and generates real-time reports, improving overall inventory accuracy. This solution enhanced operational efficiency and minimized stock discrepancies. The software is currently in use at CardX Ltd, but due to the company’s privacy policy, it cannot be published publicly.
